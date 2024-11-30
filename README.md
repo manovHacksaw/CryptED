@@ -18,7 +18,7 @@ CryptED is an AI-powered learning web application designed to help users master 
 
 Participants can join coding challenges by investing **ETH**, and upon solving a challenge correctly, they earn a reward greater than their initial investment. The ETH reward amount varies according to the difficulty level of the challenge. Rewards for successful participants are funded by the ETH locked from participants who do not solve the challenge.
 
-- **Challenge Contract Address**: [0x183315cf20F7d6133a48Bfd251BE2D0734EDAE02](https://testnet.etherscan.io/address/0x183315cf20F7d6133a48Bfd251BE2D0734EDAE02)
+- **Challenge Contract Address**: [0xA0464B4dABd2e6D1D59B1FEbBE3BE78Cbdf13a21](https://sepolia.lineascan.build/address/0xA0464B4dABd2e6D1D59B1FEbBE3BE78Cbdf13a21)
 
 ## Challenges
 
