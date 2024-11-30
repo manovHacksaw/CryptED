@@ -25,7 +25,7 @@ const geistMono = localFont({
 
 // Metadata for the page
 export const metadata: Metadata = {
-  title: 'Daccy',
+  title: 'CryptED',
   description: 'Learn coding efficiently',
 };
 
