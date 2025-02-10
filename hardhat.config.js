@@ -5,10 +5,10 @@ require("dotenv").config();
 module.exports = {
   solidity: "0.8.27",
   networks: {
-    linea: {
+    eduChain: {
       url: process.env.API_URL,
       accounts: process.env.PRIVATE_KEY !== undefined ? [`0x${process.env.PRIVATE_KEY}`] : [],
-      chainId: 59141 ,
+      chainId: 656476 ,
       
     },
   }
