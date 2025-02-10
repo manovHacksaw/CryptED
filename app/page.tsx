@@ -23,9 +23,9 @@ export default function LandingPage() {
   }, [setTheme])
   const features = [
     { icon: BookOpen, title: 'Learn to Earn', description: 'Earn rewards while gaining knowledge on blockchain development.' },
-    { icon: Code, title: 'ETH Blockchain Insights', description: 'Dive deep into the ETH blockchain and its innovative features.' },
-    { icon: MessageSquare, title: 'Secure Transactions', description: 'Experience secure and decentralized transactions on ETH.' },
-    { icon: MessageSquare, title: 'Build & Connect', description: 'Create applications and connect with the ETH blockchain community.' },
+    { icon: Code, title: 'EDU Blockchain Insights', description: 'Dive deep into the EDU blockchain and its innovative features.' },
+    { icon: MessageSquare, title: 'Secure Transactions', description: 'Experience secure and decentralized transactions on EDU.' },
+    { icon: MessageSquare, title: 'Build & Connect', description: 'Create applications and connect with the EDU blockchain community.' },
   ];
   
   const redirectToNextPage = () => {
