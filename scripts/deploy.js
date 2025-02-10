@@ -26,7 +26,7 @@ async function main() {
      const deployerBalance = await ethers.provider.getBalance(deployer.address);
      const formattedBalance = ethers.formatEther(deployerBalance);
 
-     console.log(`Deployer's balance: ${formattedBalance} ETH`);
+     console.log(`Deployer's balance: ${formattedBalance} EDU`);
 }
 
 main()
